@@ -3,7 +3,7 @@
 ### Materials
 |Name|Description |
 |---|--- |
-|HW3|HW3 dataset|
+|HW6|HW6 dataset|
 
 ### Staffs
 - Instructor: Prof. Gerard Jounghyun Kim
